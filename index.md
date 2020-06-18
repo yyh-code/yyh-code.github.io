@@ -1,14 +1,14 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
+      <h1>杨延浩</h1>
       <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>武汉大学国家网络安全学院</b></p>
+      <p><b>邮箱：3334821396@qq.com</b></p>
+      <p><b>地址：武汉市洪山区武汉大学，邮编×430070</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">      杨延浩
     </td>
   </tr>
 </table>
