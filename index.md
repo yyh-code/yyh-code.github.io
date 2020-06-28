@@ -5,10 +5,10 @@
       <p><b>硕士研究生</b></p>
       <p><b>武汉大学国家网络安全学院</b></p>
       <p><b>邮箱：3334821396@qq.com</b></p>
-      <p><b>地址：武汉市洪山区武汉大学，邮编×430070</b></p>
+      <p><b>地址：武汉市洪山区武汉大学，邮编430070</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      杨延浩
+      <img src="/Show.jpg" width="100%">      杨延浩
     </td>
   </tr>
 </table>
