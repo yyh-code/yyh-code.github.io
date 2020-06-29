@@ -8,7 +8,7 @@
       <p><b>地址：武汉市洪山区武汉大学，邮编430070</b></p>
     </td>
     <td width="25%">
-      <img src="/Show.jpg" width="100%">      杨延浩
+      <img src="/zhengjianzhao.jpg" width="100%">      杨延浩
     </td>
   </tr>
 </table>
